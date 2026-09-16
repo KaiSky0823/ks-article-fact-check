@@ -1,0 +1,4 @@
+interface:
+  display_name: "文章事实核查"
+  short_description: "并行核对公众号文章原始材料与外部权威信源并输出事实修正稿"
+  default_prompt: "Use $ks-article-fact-check to fact-check this Markdown article against its source material."
